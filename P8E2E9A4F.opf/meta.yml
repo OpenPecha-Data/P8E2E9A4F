@@ -1,0 +1,30 @@
+id: P8E2E9A4F
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of Sems dpa chen po Nam mkha od zer (fl. 15th cent.)
+  author: stag tshang lo tsA ba shes rab rin chen/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-08-03); revision in process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the Paltsek
+    Research Institute. (src)
+  - Text input:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (Lhasa)
+    (eds)
+  text_witnesses: https://sakyaresearch.org/sources/3380
+  bases:
+    c931:
+      title: Hagiography of Sems dpa chen po Nam mkha od zer (fl. 15th cent.)
+      order: 1
+      base_file: c931.txt
+created_at: '2022-04-15T18:44:20.987487'
+last_modified_at: '2022-04-15T18:44:20.987493'
+quality: null
